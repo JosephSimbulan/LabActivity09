@@ -1,0 +1,17 @@
+{
+    "name": "JosephDerickSimbulan/CCS06LoadUpdateDelete",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joseph Derick Simbulan",
+            "email": "simbulan.josephderick@auf.edu.ph"
+        }
+    ]
+}
